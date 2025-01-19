@@ -5,7 +5,7 @@
 ### ✨ Role
 <code>Mobile</code>, <code>Embedded System</code>, <code>Data Analysis</code>     
 ### ✨ Tech Stack
-<code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>    
+<code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>, <code>UART</code>    
 ### ✨ Tools 
 <code>Teraterm</code>, <code>AtmelStudio</code>, <code>Excel</code>        
 
