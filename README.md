@@ -2,7 +2,7 @@
 ### 🏆 Awards
 2022 ICT 융합 프로젝트 공모전 🏆 **최우수상**    
 
-### ✨ Postion
+### ✨ Role
 <code>Mobile</code>, <code>Embedded System</code>, <code>Data Analysis</code>     
 ### ✨ Tech Stack
 <code>Flutter</code>, <code>Dart</code>, <code>ATmega128</code>, <code>C</code>    
